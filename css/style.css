@@ -28,7 +28,7 @@ html {
 body {
   color: #000;
   line-height: 1;
-  font-family: Inter;
+  font-family: Poppins;
   font-size: .875rem;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
@@ -39,7 +39,7 @@ body {
 button,
 input,
 textarea {
-  font-family: Inter;
+  font-family: Poppins;
   font-size: inherit;
   line-height: inherit;
   color: inherit;
@@ -75,7 +75,7 @@ h6 {
   font-size: inherit
 }
 body {
-  background-color: #9effff
+  background-color: orange
 }
 .lock body {
   overflow: hidden;
@@ -90,7 +90,6 @@ body {
   flex-direction: column;
   overflow: hidden;
   max-width: 1080px;
-  border-radius: 20px;
   margin: auto;
   background-color: #fff;
   box-shadow: 0 10px 20px 0 rgba(0,0,0,.04)
